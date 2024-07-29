@@ -1,4 +1,4 @@
-FROM alpine:3.20.1
+FROM alpine:3.20.2
 MAINTAINER Anders Nyvang
 
 RUN set -x && \
